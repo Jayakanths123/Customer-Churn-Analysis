@@ -3,6 +3,10 @@
 Customer churn analysis project with a Streamlit dashboard and an exploratory
 Jupyter notebook.
 
+#StreamLit Deployed App Link
+
+https://customer-churn-analysis-nmys9zgpcw8dcfrgnaibdq.streamlit.app/
+
 ## Project files
 
 - `app.py` — Streamlit dashboard
